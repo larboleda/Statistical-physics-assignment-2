@@ -1,1 +1,1 @@
-# Statistical-physics-assignment-2
+# Statistical-physics: Matriz squaring, Trotter and path integral quantum montecarlo: assignment-2
